@@ -1,0 +1,15 @@
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\bin\Debug\net6.0\Lab 1 If Statement.exe
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\bin\Debug\net6.0\Lab 1 If Statement.deps.json
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\bin\Debug\net6.0\Lab 1 If Statement.runtimeconfig.json
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\bin\Debug\net6.0\Lab 1 If Statement.dll
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\bin\Debug\net6.0\Lab 1 If Statement.pdb
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.csproj.AssemblyReference.cache
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.AssemblyInfoInputs.cache
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.AssemblyInfo.cs
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.csproj.CoreCompileInputs.cache
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.dll
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\refint\Lab 1 If Statement.dll
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.pdb
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\Lab 1 If Statement.genruntimeconfig.cache
+C:\Users\Nick Kolesar\Desktop\Lab 1 If Statement\Lab 1 If Statement\obj\Debug\net6.0\ref\Lab 1 If Statement.dll
